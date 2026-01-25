@@ -10,6 +10,7 @@ A sophisticated and modern e-commerce frontend designed for a premium shopping e
 * **📧 Contact & Support:** Integrated contact form for user inquiries.
 
 ## 🛠️ Tech Stack
+**Language:** TypeScript
 * **Frontend:** Next.js (App Router), React.js
 * **Styling:** Tailwind CSS (Custom Color Palette)
 * **State Management:** React Hooks (Context API/useState)

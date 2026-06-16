@@ -17,7 +17,7 @@ A sophisticated and modern e-commerce frontend designed for a premium shopping e
 * **Icons & Assets:** Lucide React / Custom SVG Assets
 
 ## 🚀 Live Demo
-[View Live Demo on Vercel]((https://lumina-mon-ecommerce.netlify.app/))
+[View Live Demo on Netlify]((https://lumina-mon-ecommerce.netlify.app/))
 
 ## 🎥 Preview
 ![Lumina Mon Demo](./public/demo.gif)

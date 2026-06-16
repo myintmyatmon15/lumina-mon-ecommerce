@@ -1,3 +1,35 @@
+# 🚀 Lumina Mon E-commerce
+
+A sophisticated and modern e-commerce frontend designed for a premium shopping experience. Featuring a clean minimalist UI, seamless navigation, and a fully integrated shopping cart system.
+
+## ✨ Key Features
+* **🛒 Shopping Cart System:** Complete flow from adding items to cart management and final checkout.
+* **📱 Fully Responsive:** Optimized for all devices, from mobile phones to desktops.
+* **🎨 Elegant UI:** Custom-themed design with a focus on modern aesthetics and readability.
+* **⚡ Fast Performance:** Built with Next.js for server-side rendering and quick page transitions.
+* **📧 Contact & Support:** Integrated contact form for user inquiries.
+
+## 🛠️ Tech Stack
+**Language:** TypeScript
+* **Frontend:** Next.js (App Router), React.js
+* **Styling:** Tailwind CSS (Custom Color Palette)
+* **State Management:** React Hooks (Context API/useState)
+* **Icons & Assets:** Lucide React / Custom SVG Assets
+
+## 🚀 Live Demo
+[View Live Demo on Netlify]((https://lumina-mon-ecommerce.netlify.app/))
+
+## 🎥 Preview
+![Lumina Mon Demo](./public/demo.gif)
+
+![Lumina Mon Preview](./public/preview.png)
+
+## 📂 Project Structure
+* `/shop`: Product listing and category views.
+* `/cart`: Real-time cart calculation and item management.
+* `/checkout`: Shipping information and order summary flow.
+* `/contact`: Customer support interface.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -28,9 +60,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
